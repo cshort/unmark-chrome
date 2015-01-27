@@ -2,9 +2,9 @@
   "manifest_version": 2,
 
   "name": "Unmark",
-  "description": "Unmark's Chrome extension for saving your marks.",
+  "description": "Unmark's Chrome extension for saving your marks to ChrisShort.org.",
   "version": "1.0.1",
-  "homepage_url": "https://unmark.it",
+  "homepage_url": "https://unmark.chrisshort.org",
 
   "icons": {
     "16":  "images/icon-16.png",
@@ -15,7 +15,7 @@
   "permissions": [
     "tabs",
     "contextMenus",
-    "*://unmark.it/"
+    "*://unmark.chrisshort.org/"
   ],
 
   "omnibox": { "keyword" : "unmark" },

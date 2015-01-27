@@ -27,6 +27,8 @@ unmark.host = 'https://unmark.it';
 
 * Save
 
+This version has been modified to work with unmark.chrisshort.org
+
 ## Loading your version in Chrome
 Now you should be able to load the unpacked extension locally and test. To do that simply follow these instructions:
 
